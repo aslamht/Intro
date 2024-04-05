@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @pinda23
-- 📫 Email me at a.hanif.tanjung@gmail.com
+- 👋 Hi, I’m @afroslam
 
 <!---
 pinda23/pinda23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
