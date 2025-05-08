@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aslam
+# 👋 Hi, I’m Aslam
 
 <!---
 pinda23/pinda23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
